@@ -4,7 +4,8 @@ email: xym_0519_cn@163.com
 description: "Fortune favors the Bolds"
 baseurl: ""
 url: "http://home.xuym.me"
-github_username:  xym0519
+github_username: xym0519
+oschina_username: Broche
 
 # Build settings
 markdown: kramdown
