@@ -91,6 +91,6 @@ ruby bin/rake tmp:sessions:clear
 
 ---
 
-### 参考资料
+### References
 <a href='https://wiki.bitnami.com/Applications/BitNami_Redmine' target='blank'>Bitnami Redmine 官方 wiki</a>  
 <a href='https://wiki.bitnami.com/Components/MySQL' target='blank'>Bitnami MySql 官方 wiki</a>  
