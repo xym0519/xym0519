@@ -8,8 +8,9 @@ categories: tech
 <a href='https://github.com/shadowsocks/shadowsocks/wiki/Using-Shadowsocks-with-Command-Line-Tools' target='blank'>https://github.com/shadowsocks/shadowsocks/wiki/Using-Shadowsocks-with-Command-Line-Tools</a>
 
 ### Installation
-On Debian/Ubuntu2:
+On Debian/Ubuntu:
     apt-get install proxychains
+
 On Mac OS X:
     brew install proxychains-ng
 
@@ -30,6 +31,7 @@ Make a config file at `~/.proxychains/proxychains.conf` with content:
 Then run command with proxychains. Examples:
     proxychains4 curl https://www.twitter.com/
     proxychains4 git push origin master
+
 
 Or just proxify bash:
     proxychains4 bash
