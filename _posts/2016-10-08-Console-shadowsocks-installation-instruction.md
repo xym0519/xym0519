@@ -30,6 +30,7 @@ Make a config file at `~/.proxychains/proxychains.conf` with content:
 Then run command with proxychains. Examples:
     proxychains4 curl https://www.twitter.com/
     proxychains4 git push origin master
+
 Or just proxify bash:
     proxychains4 bash
     curl https://www.twitter.com/
