@@ -9,13 +9,18 @@ categories: tech
 
 ### Installation
 On Debian/Ubuntu:
+```
     apt-get install proxychains
+```
 
 On Mac OS X:
+```
     brew install proxychains-ng
+```
 
 ### Configuration
 Make a config file at `~/.proxychains/proxychains.conf` with content:
+```
     strict_chain
     proxy_dns 
     remote_dns_subnet 224
@@ -26,14 +31,18 @@ Make a config file at `~/.proxychains/proxychains.conf` with content:
     
     [ProxyList]
     socks5  127.0.0.1 1080
+```
 
 ### Usage
 Then run command with proxychains. Examples:
+```
     proxychains4 curl https://www.twitter.com/
     proxychains4 git push origin master
-
+```
 
 Or just proxify bash:
+```
     proxychains4 bash
     curl https://www.twitter.com/
     git push origin master
+```
