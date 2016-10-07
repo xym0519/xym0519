@@ -7,7 +7,7 @@
 
 # Site settings
 title: Broche's Home
-brief-intro: Front-end Dev Engineer
+brief-intro: Fortune favors the Bolds
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.xuym.me" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: Fortune favors the Bolds
+description_footer: #Fortune favors the Bolds
 
 # comments
 # two ways to comment, only choose one, and use your own short name
