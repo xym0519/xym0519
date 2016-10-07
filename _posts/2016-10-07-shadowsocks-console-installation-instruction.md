@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Console shadowsocks installation instruction"
+title: "Shadowsocks console installation instruction"
 categories: tech
 ---
 
@@ -38,6 +38,6 @@ Then run command with proxychains. Examples:
 
 Or just proxify bash:
 
-    proxychains4 bash
+    proxychains4 bash / proxychains4 zsh
     curl https://www.twitter.com/
     git push origin master
