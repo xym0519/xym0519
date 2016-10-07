@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "RVM installation instruction"
-categories: tech
+categories: [tech]
+tags: [ruby]
 ---
 
 ### Official site
@@ -9,6 +10,9 @@ categories: tech
 
 ### What is RVM
 RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+
+
+
 
 ### Installation
 Install

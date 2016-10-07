@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Bitnami Redmine 升级记录"
-categories: tech
+categories: [tech]
+tags: [bitnami, redmine]
 ---
 
 ### Backup
@@ -12,6 +13,9 @@ categories: tech
 2. 压缩打包
 tar zcvf bak.tgz redmine
 </pre>
+
+
+
 
 ---
 

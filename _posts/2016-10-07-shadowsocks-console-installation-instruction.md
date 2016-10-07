@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Shadowsocks console installation instruction"
-categories: tech
+categories: [tech]
+tags: [shadowsocks]
 ---
 
 ### Official site
@@ -15,6 +16,9 @@ On Debian/Ubuntu:
 On Mac OS X:
 
     brew install proxychains-ng
+
+
+
 
 ### Configuration
 Make a config file at `~/.proxychains/proxychains.conf` with content:

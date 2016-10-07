@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "How to disable SIP (System Integrity Protection)"
-categories: tech
+categories: [tech]
+tags: [osx]
 ---
 
 ### What is SIP
@@ -14,6 +15,9 @@ SIP 技术主要是用来限制 root 用户的权限, 以提升系统的健壮�
     Debugging Restrictions
     DTrace Restrictions
     NVRAM Protections
+
+
+
 
 ### How to disable
 1. Reboot into RecoveryHD mode <a href='/tech/2016/10/07/how-to-enter-osx-recoveryhd-mode/' target='blank'>[Forward]</a>
