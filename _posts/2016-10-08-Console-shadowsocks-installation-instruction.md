@@ -8,7 +8,7 @@ categories: tech
 <a href='https://github.com/shadowsocks/shadowsocks/wiki/Using-Shadowsocks-with-Command-Line-Tools' target='blank'>https://github.com/shadowsocks/shadowsocks/wiki/Using-Shadowsocks-with-Command-Line-Tools</a>
 
 ### Installation
-On Debian/Ubuntu:
+On Debian/Ubuntu2:
     apt-get install proxychains
 On Mac OS X:
     brew install proxychains-ng
