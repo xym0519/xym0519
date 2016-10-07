@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac OS X RecoveryHD mode"
+title: "How to enter OSX RecoveryHD mode"
 categories: tech
 ---
 
